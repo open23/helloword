@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        }
+    }
+}
