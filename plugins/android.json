@@ -31,9 +31,6 @@
         "cordova-plugin-dialogs": {
             "PACKAGE_NAME": "org.mycordova.helloworld"
         },
-        "cordova-plugin-file": {
-            "PACKAGE_NAME": "org.mycordova.helloworld"
-        },
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "org.mycordova.helloworld"
         },
@@ -70,6 +67,9 @@
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.mycordova.helloworld"
+        },
+        "cordova-plugin-file": {
             "PACKAGE_NAME": "org.mycordova.helloworld"
         }
     }
