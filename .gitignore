@@ -9,10 +9,11 @@
 *.class
 
 # Generated files
+.idea/
 bin/
 gen/
 out/
-.idea/
+platforms/
 
 # Gradle files
 .gradle/
